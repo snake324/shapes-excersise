@@ -13,6 +13,6 @@ Este ejercicio consiste en replicar la imagen que encontrarás haciendo click en
 
 <div>
 <p style = 'text-align:center;'>
-<img src="shapes.PNG" alt="shapes" width="40%">
+<img src="shapes.PNG" alt="shapes">
 </p>
 </div>
